@@ -77,7 +77,7 @@ function bigsurify () {
   sudo fileicon set /Applications/OpenRA\ -\ Red\ Alert.app /Users/lpuerto/Software/Big\ Sur\ Icons/OpenRA\ Red\ Alert.icns
   sudo fileicon set /Applications/OpenRA\ -\ Tiberian\ Dawn.app /Users/lpuerto/Software/Big\ Sur\ Icons/OpenRA\ Tiberian\ Sun.icns
   sudo fileicon set /Applications/Paparazzi!.app /Users/lpuerto/Software/Big\ Sur\ Icons/Paparazzi.icns
-  sudo fileicon set /Applications/Papers.app /Users/lpuerto/Software/Big\ Sur\ Icons/Papers\ 4.icns
+  sudo fileicon set /Applications/Papers.app /Users/lpuerto/Software/Big\ Sur\ Icons/Papers\ 4\ alt.icns
   # sudo fileicon set /Applications/Parcel.app
   sudo fileicon set /Applications/PDF\ Toolkit+.app /Users/lpuerto/Software/Big\ Sur\ Icons/PDFToolKit.icns
   # sudo fileicon set /Applications/Pixelmator\ Pro.app
