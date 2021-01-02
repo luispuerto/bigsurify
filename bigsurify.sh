@@ -11,6 +11,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Adobe\ Acrobat\ DC/Adobe\ Acrobat.app /Users/lpuerto/Software/Big\ Sur\ Icons/Adobe_Acrobat_Pro.icns
   sudo fileicon set /Applications/Airfoil\ Satellite.app /Users/lpuerto/Software/Big\ Sur\ Icons/AirFoilSatellite.icns
   sudo fileicon set /Applications/Airfoil.app /Users/lpuerto/Software/Big\ Sur\ Icons/Airfoil.icns
+  sudo fileicon set /Applications/Amphetamine\ Enhancer.app /Users/lpuerto/Software/Big\ Sur\ Icons/Amphetamine\ Enhancer.icns
   sudo fileicon set /Applications/Angry\ IP\ Scanner.app /Users/lpuerto/Software/Big\ Sur\ Icons/Angry\ IP\ scaner.icns
   sudo fileicon set /Applications/Aperture.app /Users/lpuerto/Software/Big\ Sur\ Icons/Aperture.icns
   sudo fileicon set /Applications/AppCleaner.app /Users/lpuerto/Software/Big\ Sur\ Icons/AppCleaner_Alt.icns
