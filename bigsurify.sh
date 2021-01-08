@@ -2,7 +2,7 @@
 
 function bigsurify () {
 
-  sudo fileicon set /Applications/1Blocker.app /Users/lpuerto/Software/Big\ Sur\ Icons/1Blocker.icns
+  # sudo fileicon set /Applications/1Blocker.app /Users/lpuerto/Software/Big\ Sur\ Icons/1Blocker.icns
   # sudo fileicon set /Applications/1Password\ 7.app /Users/lpuerto/Software/Big\ Sur\ Icons/1Password.icns
   sudo fileicon set /Applications/A\ Better\ Finder\ Attributes\ 7.app /Users/lpuerto/Software/Big\ Sur\ Icons/A\ Better\ Finder\ Attributes.icns
   sudo fileicon set /Applications/A\ Better\ Finder\ Rename\ 11.app /Users/lpuerto/Software/Big\ Sur\ Icons/A\ Better\ Finder\ Renamer.icns
