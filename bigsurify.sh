@@ -64,6 +64,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Microsoft\ PowerPoint.app /Users/lpuerto/Software/Big\ Sur\ Icons/Microsoft_Powerpoint.icns
   sudo fileicon set /Applications/Microsoft\ Teams.app /Users/lpuerto/Software/Big\ Sur\ Icons/Microosft\ Teams.icns
   sudo fileicon set /Applications/Microsoft\ Word.app /Users/lpuerto/Software/Big\ Sur\ Icons/Microsoft_Word.icns
+  sudo iconsur set -l -s 1.2 /Applications/MysteriumVPN.app
   sudo fileicon set /Applications/Movist.app /Users/lpuerto/Software/Big\ Sur\ Icons/Movist.icns
   sudo fileicon set /Applications/MusicBrainz\ Picard.app /Users/lpuerto/Software/Big\ Sur\ Icons/MusicBrainz\ Picard.icns
   sudo fileicon set /Applications/NordVPN\ IKE.app /Users/lpuerto/Software/Big\ Sur\ Icons/NordVPN_IKE.icns
