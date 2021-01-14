@@ -88,7 +88,7 @@ function bigsurify () {
   # sudo fileicon set /Applications/Rectangle.app
   # sudo fileicon set /Applications/Reeder.app
   sudo fileicon set /Applications/RStudio.app /Users/lpuerto/Software/Big\ Sur\ Icons/RStudio\ Alt.icns
-  sudo fileicon set /Applications/Signal.app /Users/lpuerto/Software/Big\ Sur\ Icons/Signal.icns
+  # sudo fileicon set /Applications/Signal.app /Users/lpuerto/Software/Big\ Sur\ Icons/Signal.icns
   sudo fileicon set /Applications/Skype.app /Users/lpuerto/Software/Big\ Sur\ Icons/Skype.icns
   sudo fileicon set /Applications/Slack.app /Users/lpuerto/Software/Big\ Sur\ Icons/Slack.icns
   # sudo fileicon set /Applications/Streaks.app
