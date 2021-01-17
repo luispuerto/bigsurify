@@ -87,6 +87,7 @@ function bigsurify () {
   # sudo fileicon set /Applications/Playgrounds.app
   sudo fileicon set /Applications/QGIS.app /Users/lpuerto/Software/Big\ Sur\ Icons/QGIS.icns
   # sudo fileicon set /Applications/Rectangle.app
+  sudo fileicon set /Applications/R.app /Users/lpuerto/Software/Big\ Sur\ Icons/R.icns
   # sudo fileicon set /Applications/Reeder.app
   sudo fileicon set /Applications/RStudio.app /Users/lpuerto/Software/Big\ Sur\ Icons/RStudio\ Alt.icns
   # sudo fileicon set /Applications/Signal.app /Users/lpuerto/Software/Big\ Sur\ Icons/Signal.icns
