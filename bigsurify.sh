@@ -26,6 +26,7 @@ function bigsurify () {
   sudo fileicon set /Applications/CloudCompare /Users/lpuerto/Software/Big\ Sur\ Icons/Cloud\ Compare.icns
   sudo fileicon set /Applications/CloudCompare/CloudCompare.app /Users/lpuerto/Software/Big\ Sur\ Icons/Cloud\ Compare.icns
   sudo fileicon set /Applications/CloudCompare/ccViewer.app /Users/lpuerto/Software/Big\ Sur\ Icons/Cloud\ Compare.icns
+  sudo fileicon set /Applications/Cloudflare\ WARP.app /Users/lpuerto/Software/Big\ Sur\ Icons/Cloudflare\ WARP.icns
   sudo fileicon set /Applications/Contacts\ Sync\ for\ Google\ Gmail.app /Users/lpuerto/Software/Big\ Sur\ Icons/Contacts\ Sync\ for\ Google\ Gmail.icns
   sudo fileicon set /Applications/Cyberduck.app /Users/lpuerto/Software/Big\ Sur\ Icons/Cyberduck.icns
   sudo fileicon set /Applications/DeepL.app /Users/lpuerto/Software/Big\ Sur\ Icons/DeepL.icns
