@@ -32,6 +32,7 @@ function bigsurify () {
   sudo fileicon set /Applications/DeepL.app /Users/lpuerto/Software/Big\ Sur\ Icons/DeepL.icns
   sudo fileicon set /Applications/DEVONthink\ 3.app /Users/lpuerto/Software/Big\ Sur\ Icons/DevonThink.icns
   sudo fileicon set /Applications/Discord.app /Users/lpuerto/Software/Big\ Sur\ Icons/Discord.icns
+  sudo fileicon set /Applications/Docker.app /Users/lpuerto/Software/Big\ Sur\ Icons/Docker.icns
   # sudo fileicon set /Applications/Dropbox.app
   # sudo fileicon set /Applications/Epson\ Software
   # sudo fileicon set /Applications/Figma.app
