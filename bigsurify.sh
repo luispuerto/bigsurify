@@ -30,7 +30,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Contacts\ Sync\ for\ Google\ Gmail.app /Users/lpuerto/Software/Big\ Sur\ Icons/Contacts\ Sync\ for\ Google\ Gmail.icns
   sudo fileicon set /Applications/Cyberduck.app /Users/lpuerto/Software/Big\ Sur\ Icons/Cyberduck.icns
   sudo fileicon set /Applications/DeepL.app /Users/lpuerto/Software/Big\ Sur\ Icons/DeepL.icns
-  sudo fileicon set /Applications/DEVONthink\ 3.app /Users/lpuerto/Software/Big\ Sur\ Icons/DevonThink.icns
+  # sudo fileicon set /Applications/DEVONthink\ 3.app /Users/lpuerto/Software/Big\ Sur\ Icons/DevonThink.icns
   sudo fileicon set /Applications/Discord.app /Users/lpuerto/Software/Big\ Sur\ Icons/Discord.icns
   sudo fileicon set /Applications/Docker.app /Users/lpuerto/Software/Big\ Sur\ Icons/Docker.icns
   # sudo fileicon set /Applications/Dropbox.app
@@ -58,7 +58,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Luminar\ 4.app /Users/lpuerto/Software/Big\ Sur\ Icons/Luminar.icns
   sudo fileicon set /Applications/Macs\ Fan\ Control.app /Users/lpuerto/Software/Big\ Sur\ Icons/smcFanControl.icns
   sudo fileicon set /Applications/Magnet.app /Users/lpuerto/Software/Big\ Sur\ Icons/Magnet.icns
-  sudo fileicon set /Applications/Marked\ 2.app /Users/lpuerto/Software/Big\ Sur\ Icons/Marked2\ alt.icns
+  # sudo fileicon set /Applications/Marked\ 2.app /Users/lpuerto/Software/Big\ Sur\ Icons/Marked2\ alt.icns
   sudo fileicon set /Library/Application\ Support/Microsoft/MAU2.0/Microsoft\ AutoUpdate.app /Users/lpuerto/Software/Big\ Sur\ Icons/MSupdater.icns
   sudo fileicon set /Applications/Microsoft\ Excel.app /Users/lpuerto/Software/Big\ Sur\ Icons/Microsoft_Excel.icns
   sudo fileicon set /Applications/Microsoft\ OneNote.app /Users/lpuerto/Software/Big\ Sur\ Icons/Microsoft_OneNote.icns
