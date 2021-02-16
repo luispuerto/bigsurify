@@ -43,7 +43,7 @@ function bigsurify () {
   sudo fileicon set /Applications/GitHub\ Desktop.app /Users/lpuerto/Software/Big\ Sur\ Icons/GitHub.icns
   # sudo fileicon set /Applications/GoodNotes.app /Users/lpuerto/Software/Big\ Sur\ Icons/GoodNotes.icns
   sudo fileicon set /Applications/GPG\ Keychain.app /Users/lpuerto/Software/Big\ Sur\ Icons/GPG\ Keychain.icns
-  sudo fileicon set /Applications/Image2Icon.app /Users/lpuerto/Software/Big\ Sur\ Icons/Image2Icon.icns
+  # sudo fileicon set /Applications/Image2Icon.app /Users/lpuerto/Software/Big\ Sur\ Icons/Image2Icon.icns
   sudo fileicon set /Applications/ImageOptim.app /Users/lpuerto/Software/Big\ Sur\ Icons/ImageOptim.icns
   # sudo fileicon set /Applications/iTerm.app /Users/lpuerto/Software/Big\ Sur\ Icons/iTerm.icns
   sudo fileicon set /Applications/Jitsi\ Meet.app /Users/lpuerto/Software/Big\ Sur\ Icons/Jitsi.icns
