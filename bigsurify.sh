@@ -34,6 +34,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Discord.app /Users/lpuerto/Software/Big\ Sur\ Icons/Discord.icns
   sudo fileicon set /Applications/Docker.app /Users/lpuerto/Software/Big\ Sur\ Icons/Docker.icns
   # sudo fileicon set /Applications/Dropbox.app
+  sudo fileicon set /Applications/Dual\ Controller.app /Users/lpuerto/Software/Big\ Sur\ Icons/Dual\ Controller.icns
   # sudo fileicon set /Applications/Epson\ Software
   # sudo fileicon set /Applications/Figma.app
   sudo fileicon set /Applications/Firefox.app /Users/lpuerto/Software/Big\ Sur\ Icons/Firefox.icns
@@ -54,6 +55,7 @@ function bigsurify () {
   sudo fileicon set /Applications/KeyboardCleanTool.app /Users/lpuerto/Software/Big\ Sur\ Icons/KeyboardCleanTool.icns
   # sudo fileicon set /Applications/Keynote.app 
   sudo fileicon set /Applications/Kindle.app /Users/lpuerto/Software/Big\ Sur\ Icons/Kindle.icns
+  sudo fileicon set /Applications/LG\ Calibration\ Studio.app/ /Users/lpuerto/Software/Big\ Sur\ Icons/LG\ Calibration\ Studio.icns
   sudo fileicon set /Applications/LibraryAccess.app /Users/lpuerto/Software/Big\ Sur\ Icons/Library\ Access.icns
   sudo fileicon set /Applications/Luminar\ 4.app /Users/lpuerto/Software/Big\ Sur\ Icons/Luminar.icns
   sudo fileicon set /Applications/Macs\ Fan\ Control.app /Users/lpuerto/Software/Big\ Sur\ Icons/smcFanControl.icns
@@ -77,6 +79,7 @@ function bigsurify () {
   # sudo fileicon set /Applications/OmniGraffle.app
   sudo fileicon set /Applications/OmniPlan.app /Users/lpuerto/Software/Big\ Sur\ Icons/OmmiPlan.icns
   sudo fileicon set /Applications/OneDrive.app /Users/lpuerto/Software/Big\ Sur\ Icons/Microosft\ OneDrive.icns
+  sudo iconsur set -l /Applications/OnScreen\ Control.app
   # sudo fileicon set /Applications/OnyX.app
   sudo fileicon set /Applications/OpenRA\ -\ Dune\ 2000.app /Users/lpuerto/Software/Big\ Sur\ Icons/OpenRA\ Dune.icns
   sudo fileicon set /Applications/OpenRA\ -\ Red\ Alert.app /Users/lpuerto/Software/Big\ Sur\ Icons/OpenRA\ Red\ Alert.icns
