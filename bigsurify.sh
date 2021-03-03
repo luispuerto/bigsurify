@@ -91,7 +91,7 @@ function bigsurify () {
   sudo fileicon set /Applications/PhotoSweeper.app /Users/lpuerto/Software/Big\ Sur\ Icons/Photos\ Finder.icns
   # sudo fileicon set /Applications/Pixelmator\ Pro.app
   # sudo fileicon set /Applications/Playgrounds.app
-  sudo fileicon set /Applications/QGIS.app /Users/lpuerto/Software/Big\ Sur\ Icons/QGIS.icns
+  sudo fileicon set /Applications/QGIS.app /Users/lpuerto/Software/Big\ Sur\ Icons/QGIS\ Alt\ 2.icns
   # sudo fileicon set /Applications/Rectangle.app
   sudo fileicon set /Applications/R.app /Users/lpuerto/Software/Big\ Sur\ Icons/R.icns
   # sudo fileicon set /Applications/Reeder.app
