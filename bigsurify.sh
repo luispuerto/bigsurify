@@ -61,7 +61,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Macs\ Fan\ Control.app /Users/lpuerto/Software/Big\ Sur\ Icons/smcFanControl.icns
   sudo fileicon set /Applications/Magnet.app /Users/lpuerto/Software/Big\ Sur\ Icons/Magnet.icns
   # sudo fileicon set /Applications/Marked\ 2.app /Users/lpuerto/Software/Big\ Sur\ Icons/Marked2\ alt.icns
-  sudo fileicon set /Library/Application\ Support/Microsoft/MAU2.0/Microsoft\ AutoUpdate.app /Users/lpuerto/Software/Big\ Sur\ Icons/MSupdater.icns
+  sudo fileicon set /Library/Application\ Support/Microsoft/MAU2.0/Microsoft\ AutoUpdate.app /Users/lpuerto/Software/Big\ Sur\ Icons/Microsoft\ Updater\ alt.icns
   sudo fileicon set /Applications/Microsoft\ Excel.app /Users/lpuerto/Software/Big\ Sur\ Icons/Microsoft_Excel.icns
   sudo fileicon set /Applications/Microsoft\ OneNote.app /Users/lpuerto/Software/Big\ Sur\ Icons/Microsoft_OneNote.icns
   sudo fileicon set /Applications/Microsoft\ Outlook.app /Users/lpuerto/Software/Big\ Sur\ Icons/Microsoft_Outlook.icns
@@ -111,6 +111,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Texpad.app /Users/lpuerto/Software/Big\ Sur\ Icons/Texpad.icns
   sudo fileicon set /Applications/Textual\ 7.app /Users/lpuerto/Software/Big\ Sur\ Icons/Textual.icns
   sudo fileicon set /Applications/The\ Unarchiver.app /Users/lpuerto/Software/Big\ Sur\ Icons/The_Unarchiver.icns
+  sudo fileicon set /Applications/TimeMachineEditor.app /Users/lpuerto/Software/Big\ Sur\ Icons/TimeMachineEditor.icns
   # sudo fileicon set /Applications/Things3.app
   # sudo fileicon set /Applications/TomTom\ MyDrive\ Connect.app /Users/lpuerto/Software/Big\ Sur\ Icons/TomTom.icns
   sudo fileicon set /Applications/TranslateMe.app /Users/lpuerto/Software/Big\ Sur\ Icons/TranslateMe.icns
