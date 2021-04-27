@@ -121,7 +121,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Tunnelblick.app /Users/lpuerto/Software/Big\ Sur\ Icons/Tunnelblick.icns
   sudo fileicon set /Applications/Tuxera\ Disk\ Manager.app /Users/lpuerto/Software/Big\ Sur\ Icons/Tuxera\ Disk\ Manager.icns
   # sudo fileicon set /Applications/Twitter.app
-  sudo fileicon set /Applications/Typora.app /Users/lpuerto/Software/Big\ Sur\ Icons/Typora.icns
+  # sudo fileicon set /Applications/Typora.app /Users/lpuerto/Software/Big\ Sur\ Icons/Typora.icns
   sudo fileicon set /Applications/Utilities/XQuartz.app /Users/lpuerto/Software/Big\ Sur\ Icons/XQuartz_Alt.icns
   sudo fileicon set /Applications/VNC\ Viewer.app /Users/lpuerto/Software/Big\ Sur\ Icons/VNC_Viewer.icns
   # sudo fileicon set /Applications/Wipr.app
