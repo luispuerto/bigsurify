@@ -56,7 +56,7 @@ function bigsurify () {
   # sudo fileicon set /Applications/Keynote.app 
   sudo fileicon set /Applications/Kindle.app /Users/lpuerto/Software/Big\ Sur\ Icons/Kindle.icns
   sudo fileicon set /Applications/LG\ Calibration\ Studio.app/ /Users/lpuerto/Software/Big\ Sur\ Icons/LG\ Calibration\ Studio.icns
-  sudo fileicon set /Applications/LibraryAccess.app /Users/lpuerto/Software/Big\ Sur\ Icons/Library\ Access.icns
+  # sudo fileicon set /Applications/LibraryAccess.app /Users/lpuerto/Software/Big\ Sur\ Icons/Library\ Access.icns
   sudo fileicon set /Applications/Luminar\ 4.app /Users/lpuerto/Software/Big\ Sur\ Icons/Luminar.icns
   sudo fileicon set /Applications/Macs\ Fan\ Control.app /Users/lpuerto/Software/Big\ Sur\ Icons/smcFanControl.icns
   sudo fileicon set /Applications/Magnet.app /Users/lpuerto/Software/Big\ Sur\ Icons/Magnet.icns
