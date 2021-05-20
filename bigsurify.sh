@@ -29,7 +29,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Cloudflare\ WARP.app /Users/lpuerto/Software/Big\ Sur\ Icons/Cloudflare\ WARP.icns
   sudo fileicon set /Applications/Contacts\ Sync\ for\ Google\ Gmail.app /Users/lpuerto/Software/Big\ Sur\ Icons/Contacts\ Sync\ for\ Google\ Gmail.icns
   sudo fileicon set /Applications/Cyberduck.app /Users/lpuerto/Software/Big\ Sur\ Icons/Cyberduck.icns
-  sudo fileicon set /Applications/DeepL.app /Users/lpuerto/Software/Big\ Sur\ Icons/DeepL.icns
+  # sudo fileicon set /Applications/DeepL.app /Users/lpuerto/Software/Big\ Sur\ Icons/DeepL.icns
   # sudo fileicon set /Applications/DEVONthink\ 3.app /Users/lpuerto/Software/Big\ Sur\ Icons/DevonThink.icns
   sudo fileicon set /Applications/Discord.app /Users/lpuerto/Software/Big\ Sur\ Icons/Discord.icns
   sudo fileicon set /Applications/Docker.app /Users/lpuerto/Software/Big\ Sur\ Icons/Docker.icns
