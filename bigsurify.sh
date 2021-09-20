@@ -75,6 +75,7 @@ function bigsurify () {
   sudo fileicon set /Applications/NordVPN\ IKE.app /Users/lpuerto/Software/Big\ Sur\ Icons/NordVPN_IKE.icns
   sudo fileicon set /Applications/Notion.app /Users/lpuerto/Software/Big\ Sur\ Icons/Notion.icns
   # sudo fileicon set /Applications/Numbers.app
+  sudo fileicon set /Applications/Obsidian.app /Users/lpuerto/Software/Big\ Sur\ Icons/Obsidian.icns
   sudo fileicon set /Applications/OCRApp.app /Users/lpuerto/Software/Big\ Sur\ Icons/OCRApp.icns
   # sudo fileicon set /Applications/OmniGraffle.app
   sudo fileicon set /Applications/OmniPlan.app /Users/lpuerto/Software/Big\ Sur\ Icons/OmmiPlan.icns
