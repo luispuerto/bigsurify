@@ -3,7 +3,7 @@
 function bigsurify () {
 
   # sudo fileicon set /Applications/1Blocker.app /Users/lpuerto/Software/Big\ Sur\ Icons/1Blocker.icns
-  # sudo fileicon set /Applications/1Password\ 7.app /Users/lpuerto/Software/Big\ Sur\ Icons/1Password.icns
+  # sudo fileicon set /Applications/1Password\ 7.app /Users/lpuerto/Software/Big\ Sur\ Icons/1Password.icns
   sudo fileicon set /Applications/A\ Better\ Finder\ Attributes\ 7.app /Users/lpuerto/Software/Big\ Sur\ Icons/A\ Better\ Finder\ Attributes.icns
   sudo fileicon set /Applications/A\ Better\ Finder\ Rename\ 11.app /Users/lpuerto/Software/Big\ Sur\ Icons/A\ Better\ Finder\ Renamer.icns
   sudo fileicon set /Applications/Adobe\ Acrobat\ DC /Users/lpuerto/Software/Big\ Sur\ Icons/Adobe_Acrobat.icns
@@ -29,7 +29,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Cloudflare\ WARP.app /Users/lpuerto/Software/Big\ Sur\ Icons/Cloudflare\ WARP.icns
   sudo fileicon set /Applications/Contacts\ Sync\ for\ Google\ Gmail.app /Users/lpuerto/Software/Big\ Sur\ Icons/Contacts\ Sync\ for\ Google\ Gmail.icns
   sudo fileicon set /Applications/Cyberduck.app /Users/lpuerto/Software/Big\ Sur\ Icons/Cyberduck.icns
-  # sudo fileicon set /Applications/DeepL.app /Users/lpuerto/Software/Big\ Sur\ Icons/DeepL.icns
+  # sudo fileicon set /Applications/DeepL.app /Users/lpuerto/Software/Big\ Sur\ Icons/DeepL.icns
   # sudo fileicon set /Applications/DEVONthink\ 3.app /Users/lpuerto/Software/Big\ Sur\ Icons/DevonThink.icns
   sudo fileicon set /Applications/Discord.app /Users/lpuerto/Software/Big\ Sur\ Icons/Discord.icns
   sudo fileicon set /Applications/Docker.app /Users/lpuerto/Software/Big\ Sur\ Icons/Docker.icns
@@ -57,6 +57,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Kindle.app /Users/lpuerto/Software/Big\ Sur\ Icons/Kindle.icns
   sudo fileicon set /Applications/LG\ Calibration\ Studio.app/ /Users/lpuerto/Software/Big\ Sur\ Icons/LG\ Calibration\ Studio.icns
   # sudo fileicon set /Applications/LibraryAccess.app /Users/lpuerto/Software/Big\ Sur\ Icons/Library\ Access.icns
+  sudo iconsur set /Applications/Lovense_Remote.app
   sudo fileicon set /Applications/Luminar\ 4.app /Users/lpuerto/Software/Big\ Sur\ Icons/Luminar.icns
   sudo fileicon set /Applications/Macs\ Fan\ Control.app /Users/lpuerto/Software/Big\ Sur\ Icons/smcFanControl.icns
   sudo fileicon set /Applications/Magnet.app /Users/lpuerto/Software/Big\ Sur\ Icons/Magnet.icns
@@ -90,13 +91,13 @@ function bigsurify () {
   # sudo fileicon set /Applications/Parcel.app
   sudo fileicon set /Applications/PDF\ Toolkit+.app /Users/lpuerto/Software/Big\ Sur\ Icons/PDFToolKit.icns
   sudo fileicon set /Applications/PhotoSweeper.app /Users/lpuerto/Software/Big\ Sur\ Icons/Photos\ Finder.icns
-  # sudo fileicon set /Applications/Pixelmator\ Pro.app
-  # sudo fileicon set /Applications/Playgrounds.app
+  # sudo fileicon set /Applications/Pixelmator\ Pro.app
+  # sudo fileicon set /Applications/Playgrounds.app
   sudo fileicon set /Applications/QGIS.app /Users/lpuerto/Software/Big\ Sur\ Icons/QGIS\ Alt\ 2.icns
   # sudo fileicon set /Applications/Rectangle.app
   sudo fileicon set /Applications/R.app /Users/lpuerto/Software/Big\ Sur\ Icons/R.icns
   sudo fileicon set /Applications/ReadCube\ Papers\ Extension.app /Users/lpuerto/Software/Big\ Sur\ Icons/Papers\ 4\ alt.icns
-  # sudo fileicon set /Applications/Reeder.app
+  # sudo fileicon set /Applications/Reeder.app
   sudo fileicon set /Applications/RStudio.app /Users/lpuerto/Software/Big\ Sur\ Icons/RStudio\ Alt.icns
   # sudo fileicon set /Applications/Signal.app /Users/lpuerto/Software/Big\ Sur\ Icons/Signal.icns
   sudo fileicon set /Applications/Skype.app /Users/lpuerto/Software/Big\ Sur\ Icons/Skype.icns
@@ -114,7 +115,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Textual\ 7.app /Users/lpuerto/Software/Big\ Sur\ Icons/Textual.icns
   sudo fileicon set /Applications/The\ Unarchiver.app /Users/lpuerto/Software/Big\ Sur\ Icons/The_Unarchiver.icns
   sudo fileicon set /Applications/TimeMachineEditor.app /Users/lpuerto/Software/Big\ Sur\ Icons/TimeMachineEditor.icns
-  # sudo fileicon set /Applications/Things3.app
+  # sudo fileicon set /Applications/Things3.app
   # sudo fileicon set /Applications/TomTom\ MyDrive\ Connect.app /Users/lpuerto/Software/Big\ Sur\ Icons/TomTom.icns
   sudo fileicon set /Applications/TranslateMe.app /Users/lpuerto/Software/Big\ Sur\ Icons/TranslateMe.icns
   sudo fileicon set /Applications/Transmission.app /Users/lpuerto/Software/Big\ Sur\ Icons/Transmission.icns
@@ -128,7 +129,7 @@ function bigsurify () {
   sudo fileicon set /Applications/VNC\ Viewer.app /Users/lpuerto/Software/Big\ Sur\ Icons/VNC_Viewer.icns
   # sudo fileicon set /Applications/Wipr.app
   sudo fileicon set /Applications/WireGuard.app /Users/lpuerto/Software/Big\ Sur\ Icons/WireGuard.icns
-  # sudo fileicon set /Applications/Xcode.app
+  # sudo fileicon set /Applications/Xcode.app
   sudo fileicon set /Applications/XLD.app /Users/lpuerto/Software/Big\ Sur\ Icons/XLD.icns
   sudo fileicon set /Applications/zoom.us.app /Users/lpuerto/Software/Big\ Sur\ Icons/Zoom.icns
   
