@@ -2,6 +2,8 @@
 
 function bigsurify () {
 
+  #Close Mail and Things before you start. 
+  pkill -x Mail Things3 
   # sudo fileicon set /Applications/1Blocker.app /Users/lpuerto/Software/Big\ Sur\ Icons/1Blocker.icns
   # sudo fileicon set /Applications/1Password\ 7.app /Users/lpuerto/Software/Big\ Sur\ Icons/1Password.icns
   sudo fileicon set /Applications/A\ Better\ Finder\ Attributes\ 7.app /Users/lpuerto/Software/Big\ Sur\ Icons/A\ Better\ Finder\ Attributes.icns
@@ -133,6 +135,7 @@ function bigsurify () {
   sudo fileicon set /Applications/XLD.app /Users/lpuerto/Software/Big\ Sur\ Icons/XLD.icns
   sudo fileicon set /Applications/zoom.us.app /Users/lpuerto/Software/Big\ Sur\ Icons/Zoom.icns
   
-  killall Dock
-  killall Finder
+  killall Dock Finder
+  open -a Mail
+  open -a Things3
 }
