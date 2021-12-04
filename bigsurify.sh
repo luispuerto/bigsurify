@@ -37,6 +37,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Docker.app /Users/lpuerto/Software/Big\ Sur\ Icons/Docker.icns
   # sudo fileicon set /Applications/Dropbox.app
   sudo fileicon set /Applications/Dual\ Controller.app /Users/lpuerto/Software/Big\ Sur\ Icons/Dual\ Controller.icns
+  sudo fileicon set /Applications/Epic\ Games\ Launcher.app/ /Users/lpuerto/Software/Big\ Sur\ Icons/Epic\ Games.icns
   # sudo fileicon set /Applications/Epson\ Software
   # sudo fileicon set /Applications/Figma.app
   sudo fileicon set /Applications/Firefox.app /Users/lpuerto/Software/Big\ Sur\ Icons/Firefox.icns
@@ -110,11 +111,13 @@ function bigsurify () {
   sudo fileicon set /Applications/Sublime\ Merge.app /Users/lpuerto/Software/Big\ Sur\ Icons/Sublime_Merge.icns
   sudo fileicon set /Applications/Sublime\ Text.app /Users/lpuerto/Software/Big\ Sur\ Icons/Sublime_Text.icns
   sudo fileicon set /Applications/Sync\ Folders\ Pro.app /Users/lpuerto/Software/Big\ Sur\ Icons/Sync\ Folders\ Pro.icns
+  sudo fileicon set /Applications/Tampermonkey.app/ /Users/lpuerto/Software/Big\ Sur\ Icons/Tampermonkey.icns
   sudo fileicon set /Applications/TeamViewer.app /Users/lpuerto/Software/Big\ Sur\ Icons/Teamviewer.icns
   # sudo fileicon set /Applications/Telegram.app
   sudo fileicon set /Applications/TeX /Users/lpuerto/Software/Big\ Sur\ Icons/TexShop.icns
-  sudo fileicon set /Applications/TeX/TeXShop.app /Users/lpuerto/Software/Big\ Sur\ Icons/TexShop.icns
+  sudo fileicon set /Applications/TeX/TeXShop.app /Users/lpuerto/Software/Big\ Sur\ Icons/TexShopApp.icns
   sudo fileicon set /Applications/TeX/LaTeXiT.app /Users/lpuerto/Software/Big\ Sur\ Icons/LaTeXiT.icns
+  sudo fileicon set /Applications/TeX/TeX\ Live\ Utility.app /Users/lpuerto/Software/Big\ Sur\ Icons/TeX\ Live\ Utility.icns
   sudo fileicon set /Applications/Texpad.app /Users/lpuerto/Software/Big\ Sur\ Icons/Texpad.icns
   sudo fileicon set /Applications/Textual\ 7.app /Users/lpuerto/Software/Big\ Sur\ Icons/Textual.icns
   sudo fileicon set /Applications/The\ Unarchiver.app /Users/lpuerto/Software/Big\ Sur\ Icons/The_Unarchiver.icns
