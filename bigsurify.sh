@@ -19,6 +19,7 @@ function bigsurify () {
   sudo fileicon set /Applications/balenaEtcher.app /Users/lpuerto/Software/Big\ Sur\ Icons/balenaEtcher.icns
   sudo fileicon set /Applications/Be\ Focused\ Pro.app /Users/lpuerto/Software/Big\ Sur\ Icons/Be_Focused.icns
   sudo fileicon set /Applications/BitdefenderVirusScanner.app /Users/lpuerto/Software/Big\ Sur\ Icons/BitDefender.icns
+  sudo iconsur set -l /Applications/Bluesnooze.app
   sudo fileicon set /Applications/BookMacster.app /Users/lpuerto/Software/Big\ Sur\ Icons/BookMacster.icns
   sudo fileicon set /Applications/calibre.app /Users/lpuerto/Software/Big\ Sur\ Icons/Calibre.icns
   sudo fileicon set /Applications/Chromium.app /Users/lpuerto/Software/Big\ Sur\ Icons/Chromium.icns
