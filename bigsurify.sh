@@ -6,9 +6,6 @@ function bigsurify () {
   pkill -x Mail Things3 
   sudo fileicon set /Applications/A\ Better\ Finder\ Attributes\ 7.app /Users/lpuerto/Software/Big\ Sur\ Icons/A\ Better\ Finder\ Attributes.icns
   sudo fileicon set /Applications/A\ Better\ Finder\ Rename\ 11.app /Users/lpuerto/Software/Big\ Sur\ Icons/A\ Better\ Finder\ Renamer.icns
-  sudo fileicon set /Applications/Adobe\ Acrobat\ DC /Users/lpuerto/Software/Big\ Sur\ Icons/Adobe_Acrobat.icns
-  sudo fileicon set /Applications/Adobe\ Acrobat\ DC/Acrobat\ Distiller.app /Users/lpuerto/Software/Big\ Sur\ Icons/Adobe_Distiller.icns
-  sudo fileicon set /Applications/Adobe\ Acrobat\ DC/Adobe\ Acrobat.app /Users/lpuerto/Software/Big\ Sur\ Icons/Adobe_Acrobat_Pro.icns
   sudo fileicon set /Applications/Airfoil\ Satellite.app /Users/lpuerto/Software/Big\ Sur\ Icons/AirFoilSatellite.icns
   sudo fileicon set /Applications/Airfoil.app /Users/lpuerto/Software/Big\ Sur\ Icons/Airfoil.icns
   sudo fileicon set /Applications/Amphetamine\ Enhancer.app /Users/lpuerto/Software/Big\ Sur\ Icons/Amphetamine\ Enhancer.icns
