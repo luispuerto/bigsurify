@@ -104,6 +104,7 @@ function bigsurify () {
   sudo fileicon set /Applications/calibre.app ~/Documents/Library/Big\ Sur\ Icons/Calibre.icns
   sudo fileicon set /Applications/zoom.us.app ~/Documents/Library/Big\ Sur\ Icons/Zoom.icns
   sudo fileicon set /Library/Application\ Support/Microsoft/MAU2.0/Microsoft\ AutoUpdate.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Updater\ alt.icns
+  sudo fileicon set /Applications/Brother\ iPrint\&Scan.app ~/Documents/Library/Big\ Sur\ Icons/Brother\ iPrint\ Scan.icns
   sudo iconsur set -l -s 1.2 /Applications/MysteriumVPN.app
   sudo iconsur set -l /Applications/Bluesnooze.app
   sudo iconsur set -l /Applications/OnScreen\ Control.app
