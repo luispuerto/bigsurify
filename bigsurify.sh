@@ -37,7 +37,6 @@ function bigsurify () {
   sudo fileicon set /Applications/Get\ Lyrical.app ~/Documents/Library/Big\ Sur\ Icons/Get\ Lyrical.icns
   sudo fileicon set /Applications/Gifox.app ~/Documents/Library/Big\ Sur\ Icons/Gifox.icns
   sudo fileicon set /Applications/GitHub\ Desktop.app ~/Documents/Library/Big\ Sur\ Icons/GitHub.icns
-  sudo fileicon set /Applications/Google\ Chrome.app/ ~/Documents/Library/Big\ Sur\ Icons/Google\ Chrome.icns
   sudo fileicon set /Applications/Google\ Docs.app/ ~/Documents/Library/Big\ Sur\ Icons/Google\ Docs.icns
   sudo fileicon set /Applications/Google\ Drive.app/ ~/Documents/Library/Big\ Sur\ Icons/Google\ Drive.icns
   sudo fileicon set /Applications/Google\ Sheets.app/ ~/Documents/Library/Big\ Sur\ Icons/Google\ Sheets.icns
