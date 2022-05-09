@@ -6,6 +6,7 @@ function bigsurify () {
   pkill -x Mail Things3 
 
   # Icon actions
+  
   sudo fileicon set /Applications/A\ Better\ Finder\ Attributes\ 7.app ~/Documents/Library/Big\ Sur\ Icons/A\ Better\ Finder\ Attributes.icns
   sudo fileicon set /Applications/A\ Better\ Finder\ Rename\ 11.app ~/Documents/Library/Big\ Sur\ Icons/A\ Better\ Finder\ Renamer.icns
   sudo fileicon set /Applications/Airfoil.app ~/Documents/Library/Big\ Sur\ Icons/Airfoil.icns
@@ -27,7 +28,9 @@ function bigsurify () {
   sudo fileicon set /Applications/CloudCompare/ccViewer.app ~/Documents/Library/Big\ Sur\ Icons/Cloud\ Compare.icns
   sudo fileicon set /Applications/CloudCompare/CloudCompare.app ~/Documents/Library/Big\ Sur\ Icons/Cloud\ Compare.icns
   sudo fileicon set /Applications/Cloudflare\ WARP.app ~/Documents/Library/Big\ Sur\ Icons/Cloudflare\ WARP.icns
+  sudo fileicon set /Applications/Configurador\ FNMT.app ~/Documents/Library/Big\ Sur\ Icons/FNMT.icns
   sudo fileicon set /Applications/Contacts\ Sync\ for\ Google\ Gmail.app ~/Documents/Library/Big\ Sur\ Icons/Contacts\ Sync\ for\ Google\ Gmail.icns
+  sudo fileicon set /Applications/Cryptomator.app ~/Documents/Library/Big\ Sur\ Icons/Cryptomator.icns
   sudo fileicon set /Applications/Cyberduck.app ~/Documents/Library/Big\ Sur\ Icons/Cyberduck.icns
   sudo fileicon set /Applications/Discord.app ~/Documents/Library/Big\ Sur\ Icons/Discord.icns
   sudo fileicon set /Applications/Docker.app ~/Documents/Library/Big\ Sur\ Icons/Docker.icns
@@ -98,6 +101,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Tunnelblick.app ~/Documents/Library/Big\ Sur\ Icons/Tunnelblick.icns
   sudo fileicon set /Applications/Tuxera\ Disk\ Manager.app ~/Documents/Library/Big\ Sur\ Icons/Tuxera\ Disk\ Manager.icns
   sudo fileicon set /Applications/Utilities/XQuartz.app ~/Documents/Library/Big\ Sur\ Icons/XQuartz_Alt.icns
+  sudo fileicon set /Applications/VeraCrypt.app ~/Documents/Library/Big\ Sur\ Icons/VeraCrypt.icns
   sudo fileicon set /Applications/VNC\ Viewer.app ~/Documents/Library/Big\ Sur\ Icons/VNC_Viewer.icns
   sudo fileicon set /Applications/WireGuard.app ~/Documents/Library/Big\ Sur\ Icons/WireGuard.icns
   sudo fileicon set /Applications/XLD.app ~/Documents/Library/Big\ Sur\ Icons/XLD.icns
