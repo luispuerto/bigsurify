@@ -96,6 +96,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Textual\ 7.app ~/Documents/Library/Big\ Sur\ Icons/Textual.icns
   sudo fileicon set /Applications/The\ Unarchiver.app ~/Documents/Library/Big\ Sur\ Icons/The_Unarchiver.icns
   sudo fileicon set /Applications/TimeMachineEditor.app ~/Documents/Library/Big\ Sur\ Icons/TimeMachineEditor.icns
+  sudo fileicon set /Applications/TOR\ Browser.app ~/Documents/Library/Big\ Sur\ Icons/TOR\ Browser.icns
   sudo fileicon set /Applications/Transmission.app ~/Documents/Library/Big\ Sur\ Icons/Transmission.icns
   sudo fileicon set /Applications/Trash\ It!.app ~/Documents/Library/Big\ Sur\ Icons/TrashIt.icns
   sudo fileicon set /Applications/Tunnelblick.app ~/Documents/Library/Big\ Sur\ Icons/Tunnelblick.icns
