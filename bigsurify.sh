@@ -5,6 +5,12 @@ function bigsurify () {
   # Close Mail and Things before you start. 
   pkill -x Mail Things3 
 
+  # Coping some icons inside some of the apps. I think this should be first
+
+  sudo cp /Users/luispuerto/Documents/Library/Big\ Sur\ Icons/Folders/Google\ Drive\ Folder.icns /Applications/Google\ Drive.app/Contents/Resources/drive_fs.icns
+  sudo cp /Users/luispuerto/Documents/Library/Big\ Sur\ Icons/Folders/Autofirma.icns /Applications/AutoFirma.app/Contents/Resources/AppIcon.icns
+  sudo cp /Users/luispuerto/Documents/Library/Big\ Sur\ Icons/Folders/Calibre.icns /Applications/calibre.app/Contents/Resources/calibre.icns
+
   # Icon actions
   
   sudo fileicon set /Applications/A\ Better\ Finder\ Attributes\ 7.app ~/Documents/Library/Big\ Sur\ Icons/A\ Better\ Finder\ Attributes.icns
