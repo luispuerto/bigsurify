@@ -7,10 +7,10 @@ function bigsurify () {
 
   # Coping some icons inside some of the apps. I think this should be first
 
-  sudo cp /Users/luispuerto/Documents/Library/Big\ Sur\ Icons/Folders/Google\ Drive\ Folder.icns /Applications/Google\ Drive.app/Contents/Resources/drive_fs.icns
   sudo cp /Users/luispuerto/Documents/Library/Big\ Sur\ Icons/Folders/Autofirma.icns /Applications/AutoFirma.app/Contents/Resources/AppIcon.icns
   sudo cp /Users/luispuerto/Documents/Library/Big\ Sur\ Icons/Folders/Calibre.icns /Applications/calibre.app/Contents/Resources/calibre.icns
-
+  sudo cp /Users/luispuerto/Documents/Library/Big\ Sur\ Icons/Folders/Google\ Drive\ Folder.icns /Applications/Google\ Drive.app/Contents/Resources/drive_fs.icns
+  
   # Icon actions
   
   sudo fileicon set /Applications/A\ Better\ Finder\ Attributes\ 7.app ~/Documents/Library/Big\ Sur\ Icons/A\ Better\ Finder\ Attributes.icns
@@ -76,6 +76,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Notion.app ~/Documents/Library/Big\ Sur\ Icons/Notion.icns
   sudo fileicon set /Applications/Obsidian.app ~/Documents/Library/Big\ Sur\ Icons/Obsidian.icns
   sudo fileicon set /Applications/OneDrive.app ~/Documents/Library/Big\ Sur\ Icons/Microosft\ OneDrive.icns
+  sudo fileicon set /Applications/OnionShare.app ~/Documents/Library/Big\ Sur\ Icons/OnionShare.icns
   sudo fileicon set /Applications/OpenRA\ -\ Dune\ 2000.app ~/Documents/Library/Big\ Sur\ Icons/OpenRA\ Dune.icns
   sudo fileicon set /Applications/OpenRA\ -\ Red\ Alert.app ~/Documents/Library/Big\ Sur\ Icons/OpenRA\ Red\ Alert.icns
   sudo fileicon set /Applications/OpenRA\ -\ Tiberian\ Dawn.app ~/Documents/Library/Big\ Sur\ Icons/OpenRA\ Tiberian\ Sun.icns
