@@ -64,12 +64,12 @@ function bigsurify () {
   sudo fileicon set /Applications/Luminar\ 4.app ~/Documents/Library/Big\ Sur\ Icons/Luminar.icns
   sudo fileicon set /Applications/Macs\ Fan\ Control.app ~/Documents/Library/Big\ Sur\ Icons/smcFanControl.icns
   sudo fileicon set /Applications/Managed\ Software\ Center.app ~/Documents/Library/Big\ Sur\ Icons/Managed\ Software\ Centre.icns
-  sudo fileicon set /Applications/Microsoft\ Excel.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft_Excel.icns
-  sudo fileicon set /Applications/Microsoft\ OneNote.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft_OneNote.icns
-  sudo fileicon set /Applications/Microsoft\ Outlook.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft_Outlook.icns
-  sudo fileicon set /Applications/Microsoft\ PowerPoint.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft_Powerpoint.icns
-  sudo fileicon set /Applications/Microsoft\ Teams.app ~/Documents/Library/Big\ Sur\ Icons/Microosft\ Teams.icns
-  sudo fileicon set /Applications/Microsoft\ Word.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft_Word.icns
+  sudo fileicon set /Applications/Microsoft\ Excel.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Excel.icns
+  sudo fileicon set /Applications/Microsoft\ OneNote.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ OneNote.icns
+  sudo fileicon set /Applications/Microsoft\ Outlook.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Outlook.icns
+  sudo fileicon set /Applications/Microsoft\ PowerPoint.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Powerpoint.icns
+  sudo fileicon set /Applications/Microsoft\ Teams.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Teams.icns
+  sudo fileicon set /Applications/Microsoft\ Word.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Word.icns
   sudo fileicon set /Applications/Movist.app ~/Documents/Library/Big\ Sur\ Icons/Movist.icns
   sudo fileicon set /Applications/MusicBrainz\ Picard.app ~/Documents/Library/Big\ Sur\ Icons/MusicBrainz\ Picard.icns
   sudo fileicon set /Applications/NordVPN\ IKE.app ~/Documents/Library/Big\ Sur\ Icons/NordVPN_IKE.icns
