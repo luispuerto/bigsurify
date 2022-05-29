@@ -52,6 +52,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Google\ Slides.app/ ~/Documents/Library/Big\ Sur\ Icons/Google\ Slides.icns
   sudo fileicon set /Applications/GoToMeeting\ \(18705\).app ~/Documents/Library/Big\ Sur\ Icons/GoToMeeting.icns
   sudo fileicon set /Applications/Hidden\ Bar.app/ ~/Documents/Library/Big\ Sur\ Icons/Hidden\ Bar.icns
+  sudo fileicon set /Applications/I2P.app ~/Documents/Library/Big\ Sur\ Icons/I2P.icns
   sudo fileicon set /Applications/ImageOptim.app ~/Documents/Library/Big\ Sur\ Icons/ImageOptim.icns
   sudo fileicon set /Applications/Jitsi\ Meet.app ~/Documents/Library/Big\ Sur\ Icons/Jitsi.icns
   sudo fileicon set /Applications/Julia-*.app ~/Documents/Library/Big\ Sur\ Icons/Julia.icns
