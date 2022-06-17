@@ -115,6 +115,7 @@ function bigsurify () {
   sudo fileicon set /Applications/WireGuard.app ~/Documents/Library/Big\ Sur\ Icons/WireGuard.icns
   sudo fileicon set /Applications/XLD.app ~/Documents/Library/Big\ Sur\ Icons/XLD.icns
   sudo fileicon set /Applications/zoom.us.app ~/Documents/Library/Big\ Sur\ Icons/Zoom.icns
+  sudo fileicon set /Applications/Mountain\ Duck.app ~/Documents/Library/Big\ Sur\ Icons/Mountain\ Duck.icns
   sudo fileicon set /Library/Application\ Support/Microsoft/MAU2.0/Microsoft\ AutoUpdate.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Updater\ alt.icns
   sudo iconsur set -l -s 1.2 /Applications/MysteriumVPN.app
   sudo iconsur set -l /Applications/Bluesnooze.app
