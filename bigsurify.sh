@@ -126,6 +126,9 @@ function bigsurify () {
   sudo iconsur set -l /Applications/Self-Service.app
   sudo iconsur set -l /Applications/Sophos/Sophos\ Device\ Encryption.app/
   sudo iconsur set -l /Applications/Sophos\ Device\ Encryption.app
+
+  # Change internal icons of some apps related to Python
+  sudo cp ~/Documents/Library/Big\ Sur\ Icons/qgis-icon-macos.png /Applications/QGIS.app/Contents/Resources/images/icons/qgis-icon-macos.png 
   
   # Killing Dock and Finder to the new icons load properly
   killall Dock Finder
