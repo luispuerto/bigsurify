@@ -85,6 +85,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Paparazzi!.app ~/Documents/Library/Big\ Sur\ Icons/Paparazzi.icns
   sudo fileicon set /Applications/Papers.app ~/Documents/Library/Big\ Sur\ Icons/Papers\ 4\ alt.icns
   sudo fileicon set /Applications/PDF\ Toolkit+.app ~/Documents/Library/Big\ Sur\ Icons/PDFToolKit.icns
+  sudo fileicon set /Applications/PyCharm\ CE.app ~/Documents/Library/Big\ Sur\ Icons/PyCharm.icns
   sudo fileicon set /Applications/QGIS.app ~/Documents/Library/Big\ Sur\ Icons/QGIS\ Alt\ 2.icns
   sudo fileicon set /Applications/R.app ~/Documents/Library/Big\ Sur\ Icons/R.icns
   sudo fileicon set /Applications/ReadCube\ Papers\ Extension.app ~/Documents/Library/Big\ Sur\ Icons/Papers\ 4\ alt.icns
