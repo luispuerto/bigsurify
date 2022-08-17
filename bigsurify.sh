@@ -62,6 +62,7 @@ function bigsurify () {
   sudo fileicon set /Applications/KeyboardCleanTool.app ~/Documents/Library/Big\ Sur\ Icons/KeyboardCleanTool.icns
   sudo fileicon set /Applications/Launchpad\ Manager.app ~/Documents/Library/Big\ Sur\ Icons/Launchpad\ Manager.icns
   sudo fileicon set /Applications/LG\ Calibration\ Studio.app/ ~/Documents/Library/Big\ Sur\ Icons/LG\ Calibration\ Studio.icns
+  sudo fileicon set /Applications/LogiTune.app ~/Documents/Library/Big\ Sur\ Icons/LogiTune.icns
   sudo fileicon set /Applications/Luminar\ 4.app ~/Documents/Library/Big\ Sur\ Icons/Luminar.icns
   sudo fileicon set /Applications/Macs\ Fan\ Control.app ~/Documents/Library/Big\ Sur\ Icons/smcFanControl.icns
   sudo fileicon set /Applications/Managed\ Software\ Center.app ~/Documents/Library/Big\ Sur\ Icons/Managed\ Software\ Centre.icns
