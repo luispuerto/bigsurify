@@ -130,8 +130,17 @@ function bigsurify () {
   sudo iconsur set -l /Applications/Sophos\ Device\ Encryption.app
 
   # Change internal icons of some apps related to Python
-  sudo cp ~/Documents/Library/Big\ Sur\ Icons/qgis-icon-macos.png /Applications/QGIS.app/Contents/Resources/images/icons/qgis-icon-macos.png 
+  ## Qgis
+  sudo cp ~/Documents/Library/Big\ Sur\ Icons/qgis-icon-macos.png \
+    /Applications/QGIS.app/Contents/Resources/images/icons/qgis-icon-macos.png 
   
+  ## Calibre
+  echo /Applications/calibre.app/Contents/Resources/resources/images/apple-touch-icon.png \
+    /Applications/calibre.app/Contents/Resources/resources/images/library.png \
+    /Applications/calibre.app/Contents/Resources/resources/images/lt.png | \
+    xargs -n 1 cp ~/Documents/Library/Big\ Sur\ Icons/calibre.png
+
+
   # Killing Dock and Finder to the new icons load properly
   killall Dock Finder
   
