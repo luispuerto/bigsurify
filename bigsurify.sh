@@ -7,9 +7,8 @@ function bigsurify () {
 
   # Coping some icons inside some of the apps. I think this should be first
 
-  sudo cp /Users/luispuerto/Documents/Library/Big\ Sur\ Icons/Folders/Autofirma.icns /Applications/AutoFirma.app/Contents/Resources/AppIcon.icns
-  sudo cp /Users/luispuerto/Documents/Library/Big\ Sur\ Icons/Folders/Calibre.icns /Applications/calibre.app/Contents/Resources/calibre.icns
-  sudo cp /Users/luispuerto/Documents/Library/Big\ Sur\ Icons/Folders/Google\ Drive\ Folder.icns /Applications/Google\ Drive.app/Contents/Resources/drive_fs.icns
+  sudo cp /Users/luispuerto/Documents/Library/Big\ Sur\ Icons/Autofirma.icns /Applications/AutoFirma.app/Contents/Resources/AppIcon.icns
+  sudo cp /Users/luispuerto/Documents/Library/Big\ Sur\ Icons/Calibre.icns /Applications/calibre.app/Contents/Resources/calibre.icns
   
   # Icon actions
   
@@ -130,7 +129,7 @@ function bigsurify () {
   sudo iconsur set -l /Applications/Sophos\ Device\ Encryption.app
 
   # Change internal icons of some apps related to Python
-  ## Qgis
+  ## QGIS
   sudo cp ~/Documents/Library/Big\ Sur\ Icons/qgis-icon-macos.png \
     /Applications/QGIS.app/Contents/Resources/images/icons/qgis-icon-macos.png 
   
