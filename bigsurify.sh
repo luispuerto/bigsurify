@@ -121,6 +121,7 @@ function bigsurify () {
   sudo fileicon set /opt/homebrew/Caskroom/miniforge/base/Anaconda-Navigator.app /Users/luispuerto/Documents/Library/Big\ Sur\ Icons/Anaconda.icns
   sudo iconsur set -l -s 1.2 /Applications/MysteriumVPN.app
   sudo iconsur set -l /Applications/Bluesnooze.app
+  sudo iconsur set -l /Applications/NXPowerLite\ Desktop.app
   sudo iconsur set -l /Applications/OnScreen\ Control.app
   sudo iconsur set -l /Applications/PhotoMill.app
   sudo iconsur set -l /Applications/PhotoSweeper.app
