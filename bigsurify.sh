@@ -65,6 +65,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Luminar\ 4.app ~/Documents/Library/Big\ Sur\ Icons/Luminar.icns
   sudo fileicon set /Applications/Macs\ Fan\ Control.app ~/Documents/Library/Big\ Sur\ Icons/smcFanControl.icns
   sudo fileicon set /Applications/Managed\ Software\ Center.app ~/Documents/Library/Big\ Sur\ Icons/Managed\ Software\ Centre.icns
+  sudo fileicon set /Applications/Mendeley\ Reference\ Manager.app/ ~/Documents/Library/Big\ Sur\ Icons/Mendeley.icns
   sudo fileicon set /Applications/Microsoft\ Excel.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Excel.icns
   sudo fileicon set /Applications/Microsoft\ OneNote.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ OneNote.icns
   sudo fileicon set /Applications/Microsoft\ Outlook.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Outlook.icns
@@ -117,6 +118,7 @@ function bigsurify () {
   sudo fileicon set /Applications/WireGuard.app ~/Documents/Library/Big\ Sur\ Icons/WireGuard.icns
   sudo fileicon set /Applications/XLD.app ~/Documents/Library/Big\ Sur\ Icons/XLD.icns
   sudo fileicon set /Applications/zoom.us.app ~/Documents/Library/Big\ Sur\ Icons/Zoom.icns
+  sudo fileicon set /Applications/Zotero.app ~/Documents/Library/Big\ Sur\ Icons/Zotero.icns
   sudo fileicon set /Library/Application\ Support/Microsoft/MAU2.0/Microsoft\ AutoUpdate.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Updater\ alt.icns
   sudo fileicon set /opt/homebrew/Caskroom/miniforge/base/Anaconda-Navigator.app /Users/luispuerto/Documents/Library/Big\ Sur\ Icons/Anaconda.icns
   sudo iconsur set -l -s 1.2 /Applications/MysteriumVPN.app
