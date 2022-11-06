@@ -65,6 +65,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Luminar\ 4.app ~/Documents/Library/Big\ Sur\ Icons/Luminar.icns
   sudo fileicon set /Applications/Macs\ Fan\ Control.app ~/Documents/Library/Big\ Sur\ Icons/smcFanControl.icns
   sudo fileicon set /Applications/Managed\ Software\ Center.app ~/Documents/Library/Big\ Sur\ Icons/Managed\ Software\ Centre.icns
+  sudo fileicon set /Applications/Mastonaut.app ~/Documents/Library/Big\ Sur\ Icons/Mastodon.icns
   sudo fileicon set /Applications/Mendeley\ Reference\ Manager.app/ ~/Documents/Library/Big\ Sur\ Icons/Mendeley.icns
   sudo fileicon set /Applications/Microsoft\ Excel.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Excel.icns
   sudo fileicon set /Applications/Microsoft\ OneNote.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ OneNote.icns
