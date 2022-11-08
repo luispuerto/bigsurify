@@ -113,6 +113,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Trash\ It!.app ~/Documents/Library/Big\ Sur\ Icons/TrashIt.icns
   sudo fileicon set /Applications/Tunnelblick.app ~/Documents/Library/Big\ Sur\ Icons/Tunnelblick.icns
   sudo fileicon set /Applications/Tuxera\ Disk\ Manager.app ~/Documents/Library/Big\ Sur\ Icons/Tuxera\ Disk\ Manager.icns
+  sudo fileicon set /Applications/Utilities/XQuartz.app /Users/luispuerto/Documents/Library/Big\ Sur\ Icons/XQuartz.icns
   sudo fileicon set /Applications/Utilities/XQuartz.app ~/Documents/Library/Big\ Sur\ Icons/XQuartz_Alt.icns
   sudo fileicon set /Applications/VeraCrypt.app ~/Documents/Library/Big\ Sur\ Icons/VeraCrypt.icns
   sudo fileicon set /Applications/VNC\ Viewer.app ~/Documents/Library/Big\ Sur\ Icons/VNC_Viewer.icns
