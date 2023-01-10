@@ -123,6 +123,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Zotero.app ~/Documents/Library/Big\ Sur\ Icons/Zotero.icns
   sudo fileicon set /Library/Application\ Support/Microsoft/MAU2.0/Microsoft\ AutoUpdate.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Updater\ alt.icns
   sudo fileicon set /opt/homebrew/Caskroom/miniforge/base/Anaconda-Navigator.app /Users/luispuerto/Documents/Library/Big\ Sur\ Icons/Anaconda.icns
+  sudo fileicon set /Users/luispuerto/Applications/Chrome\ Apps.localized/Google\ Meet.app ~/Documents/Library/Big\ Sur\ Icons/Google\ Meet.icns
   sudo iconsur set -l -s 1.2 /Applications/MysteriumVPN.app
   sudo iconsur set -l /Applications/Bluesnooze.app
   sudo iconsur set -l /Applications/NXPowerLite\ Desktop.app
