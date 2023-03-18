@@ -41,7 +41,8 @@ function bigsurify () {
   sudo fileicon set /Applications/Docker.app ~/Documents/Library/Big\ Sur\ Icons/Docker.icns
   sudo fileicon set /Applications/Dual\ Controller.app ~/Documents/Library/Big\ Sur\ Icons/Dual\ Controller.icns
   sudo fileicon set /Applications/Epic\ Games\ Launcher.app/ ~/Documents/Library/Big\ Sur\ Icons/Epic\ Games.icns
-  sudo fileicon set /Applications/Epson\ Software ~/Documents/Library/Big\ Sur\ Icons/Printer\ settings.icns  sudo fileicon set /Applications/Firefox.app ~/Documents/Library/Big\ Sur\ Icons/Firefox.icns
+  sudo fileicon set /Applications/Epson\ Software ~/Documents/Library/Big\ Sur\ Icons/Printer\ settings.icns
+  sudo fileicon set /Applications/Firefox.app ~/Documents/Library/Big\ Sur\ Icons/Firefox.icns
   sudo fileicon set /Applications/Get\ Lyrical.app ~/Documents/Library/Big\ Sur\ Icons/Get\ Lyrical.icns
   sudo fileicon set /Applications/Gifox.app ~/Documents/Library/Big\ Sur\ Icons/Gifox.icns
   sudo fileicon set /Applications/GitHub\ Desktop.app ~/Documents/Library/Big\ Sur\ Icons/GitHub.icns
