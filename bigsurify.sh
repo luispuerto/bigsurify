@@ -43,6 +43,7 @@ function bigsurify () {
   sudo fileicon set /Applications/OpenRA\ -\ Red\ Alert.app ~/Documents/Library/Big\ Sur\ Icons/OpenRA\ Red\ Alert.icns
   sudo fileicon set /Applications/OpenRA\ -\ Tiberian\ Dawn.app ~/Documents/Library/Big\ Sur\ Icons/OpenRA\ Tiberian\ Sun.icns
   sudo fileicon set /Applications/Paparazzi!.app ~/Documents/Library/Big\ Sur\ Icons/Paparazzi.icns
+  sudo fileicon set /Applications/Plex.app ~/Documents/Library/Big\ Sur\ Icons/Plex.icns
   sudo fileicon set /Applications/QGIS.app ~/Documents/Library/Big\ Sur\ Icons/QGIS\ Alt\ 2.icns
   sudo fileicon set /Applications/R.app ~/Documents/Library/Big\ Sur\ Icons/R.icns
   sudo fileicon set /Applications/RStudio.app ~/Documents/Library/Big\ Sur\ Icons/RStudio\ Alt.icns
