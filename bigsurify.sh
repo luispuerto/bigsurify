@@ -12,11 +12,13 @@ function bigsurify () {
   
   # Icon actions
   
+  # sudo fileicon set /Applications/Zotero.app ~/Documents/Library/Big\ Sur\ Icons/Zotero.icns
   sudo fileicon set /Applications/A\ Better\ Finder\ Attributes\ 7.app ~/Documents/Library/Big\ Sur\ Icons/A\ Better\ Finder\ Attributes.icns
   sudo fileicon set /Applications/A\ Better\ Finder\ Rename\ 11.app ~/Documents/Library/Big\ Sur\ Icons/A\ Better\ Finder\ Renamer.icns
   sudo fileicon set /Applications/Angry\ IP\ Scanner.app ~/Documents/Library/Big\ Sur\ Icons/Angry\ IP\ scaner.icns
   sudo fileicon set /Applications/AutoFirma.app ~/Documents/Library/Big\ Sur\ Icons/Autofirma.icns 
   sudo fileicon set /Applications/Be\ Focused\ Pro.app ~/Documents/Library/Big\ Sur\ Icons/Be_Focused.icns
+  sudo fileicon set /Applications/BitdefenderVirusScanner.app/ ~/Documents/Library/Big\ Sur\ Icons/Bitdefender\ Antivirus\ for\ Mac.icns
   sudo fileicon set /Applications/BookMacster.app ~/Documents/Library/Big\ Sur\ Icons/BookMacster.icns
   sudo fileicon set /Applications/Brother\ iPrint\&Scan.app ~/Documents/Library/Big\ Sur\ Icons/Brother\ iPrint\ Scan.icns
   sudo fileicon set /Applications/Cryptomator.app ~/Documents/Library/Big\ Sur\ Icons/Cryptomator.icns
@@ -63,10 +65,10 @@ function bigsurify () {
   sudo fileicon set /Applications/Utilities/XQuartz.app ~/Documents/Library/Big\ Sur\ Icons/XQuartz_Alt.icns
   sudo fileicon set /Applications/VeraCrypt.app ~/Documents/Library/Big\ Sur\ Icons/VeraCrypt.icns
   sudo fileicon set /Applications/WireGuard.app ~/Documents/Library/Big\ Sur\ Icons/WireGuard.icns
-  # sudo fileicon set /Applications/Zotero.app ~/Documents/Library/Big\ Sur\ Icons/Zotero.icns
   sudo fileicon set /Applications/calibre.app ~/Documents/Library/Big\ Sur\ Icons/Calibre.icns
   sudo fileicon set /Applications/zoom.us.app ~/Documents/Library/Big\ Sur\ Icons/Zoom.icns
   sudo iconsur set -l -s 1 /Applications/MarkDownload\ -\ Markdown\ Web\ Clipper.app
+  sudo iconsur set -l -s 1.01 /Applications/Antivirus\ One.app
   sudo iconsur set -l -s 1.01 /Applications/Starry\ Night\ Pro\ Plus\ 8.app
   sudo iconsur set -l -s 1.05 /Applications/MovPilot\ Disney+\ Video\ Downloader.app
 
