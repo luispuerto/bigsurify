@@ -52,7 +52,6 @@ function bigsurify () {
   sudo fileicon set /Applications/Slack.app ~/Documents/Library/Big\ Sur\ Icons/Slack.icns
   sudo fileicon set /Applications/Sublime\ Merge.app ~/Documents/Library/Big\ Sur\ Icons/Sublime_Merge.icns
   sudo fileicon set /Applications/Sublime\ Text.app ~/Documents/Library/Big\ Sur\ Icons/Sublime_Text.icns
-  sudo fileicon set /Applications/TOR\ Browser.app ~/Documents/Library/Big\ Sur\ Icons/TOR\ Browser.icns
   sudo fileicon set /Applications/TeX ~/Documents/Library/Big\ Sur\ Icons/TexShop.icns
   sudo fileicon set /Applications/TeX/LaTeXiT.app ~/Documents/Library/Big\ Sur\ Icons/LaTeXiT.icns
   sudo fileicon set /Applications/TeX/TeXShop.app ~/Documents/Library/Big\ Sur\ Icons/TexShopApp.icns
