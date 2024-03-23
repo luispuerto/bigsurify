@@ -83,6 +83,10 @@ function bigsurify () {
     /Applications/calibre.app/Contents/Resources/resources/images/library.png \
     /Applications/calibre.app/Contents/Resources/resources/images/lt.png | \
     xargs -n 1 cp ~/Documents/Library/Big\ Sur\ Icons/calibre.png
+  # echo /Applications/calibre.app/Contents/Resources/resources/images/viewer.png | \
+  #   # /Applications/calibre.app/Contents/Resources/resources/images/library.png \
+  #   # /Applications/calibre.app/Contents/Resources/resources/images/lt.png | \
+  #   xargs -n 1 cp ~/Documents/Library/Big\ Sur\ Icons/ebook-viewer.png
 
 
   # Killing Dock and Finder to the new icons load properly
