@@ -14,7 +14,6 @@ function bigsurify () {
   
   # sudo fileicon set /Applications/Zotero.app ~/Documents/Library/Big\ Sur\ Icons/Zotero.icns
   sudo fileicon set /Applications/A\ Better\ Finder\ Attributes\ 7.app ~/Documents/Library/Big\ Sur\ Icons/A\ Better\ Finder\ Attributes.icns
-  sudo fileicon set /Applications/A\ Better\ Finder\ Rename\ 11.app ~/Documents/Library/Big\ Sur\ Icons/A\ Better\ Finder\ Renamer.icns
   sudo fileicon set /Applications/Angry\ IP\ Scanner.app ~/Documents/Library/Big\ Sur\ Icons/Angry\ IP\ scaner.icns
   sudo fileicon set /Applications/AutoFirma.app ~/Documents/Library/Big\ Sur\ Icons/Autofirma.icns 
   sudo fileicon set /Applications/Be\ Focused\ Pro.app ~/Documents/Library/Big\ Sur\ Icons/Be_Focused.icns
@@ -23,7 +22,6 @@ function bigsurify () {
   sudo fileicon set /Applications/Brother\ iPrint\&Scan.app ~/Documents/Library/Big\ Sur\ Icons/Brother\ iPrint\ Scan.icns
   sudo fileicon set /Applications/Cryptomator.app ~/Documents/Library/Big\ Sur\ Icons/Cryptomator.icns
   sudo fileicon set /Applications/Cyberduck.app ~/Documents/Library/Big\ Sur\ Icons/Cyberduck.icns
-  sudo fileicon set /Applications/Docker.app ~/Documents/Library/Big\ Sur\ Icons/Docker.icns
   sudo fileicon set /Applications/Epson\ Software ~/Documents/Library/Big\ Sur\ Icons/Printer\ settings.icns
   sudo fileicon set /Applications/Firefox.app ~/Documents/Library/Big\ Sur\ Icons/Firefox.icns
   sudo fileicon set /Applications/Hidden\ Bar.app/ ~/Documents/Library/Big\ Sur\ Icons/Hidden\ Bar.icns
@@ -49,9 +47,7 @@ function bigsurify () {
   sudo fileicon set /Applications/R.app ~/Documents/Library/Big\ Sur\ Icons/R.icns
   sudo fileicon set /Applications/RStudio.app ~/Documents/Library/Big\ Sur\ Icons/RStudio\ Alt.icns
   sudo fileicon set /Applications/Skype.app ~/Documents/Library/Big\ Sur\ Icons/Skype.icns
-  sudo fileicon set /Applications/Slack.app ~/Documents/Library/Big\ Sur\ Icons/Slack.icns
   sudo fileicon set /Applications/Sublime\ Merge.app ~/Documents/Library/Big\ Sur\ Icons/Sublime_Merge.icns
-  sudo fileicon set /Applications/Sublime\ Text.app ~/Documents/Library/Big\ Sur\ Icons/Sublime_Text.icns
   sudo fileicon set /Applications/TeX ~/Documents/Library/Big\ Sur\ Icons/TexShop.icns
   sudo fileicon set /Applications/TeX/LaTeXiT.app ~/Documents/Library/Big\ Sur\ Icons/LaTeXiT.icns
   sudo fileicon set /Applications/TeX/TeXShop.app ~/Documents/Library/Big\ Sur\ Icons/TexShopApp.icns
@@ -66,7 +62,6 @@ function bigsurify () {
   sudo fileicon set /Applications/Wire.app ~/Documents/Library/Big\ Sur\ Icons/Wire.icns
   sudo fileicon set /Applications/WireGuard.app ~/Documents/Library/Big\ Sur\ Icons/WireGuard.icns
   sudo fileicon set /Applications/calibre.app ~/Documents/Library/Big\ Sur\ Icons/Calibre.icns
-  sudo fileicon set /Applications/zoom.us.app ~/Documents/Library/Big\ Sur\ Icons/Zoom.icns
   sudo iconsur set -l -s 1 /Applications/MarkDownload\ -\ Markdown\ Web\ Clipper.app
   sudo iconsur set -l -s 1.01 /Applications/Antivirus\ One.app
   sudo iconsur set -l -s 1.01 /Applications/Starry\ Night\ Pro\ Plus\ 8.app
