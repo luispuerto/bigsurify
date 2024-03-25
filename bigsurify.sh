@@ -3,7 +3,8 @@
 function bigsurify () {
 
   # Close Mail and Things before you start. 
-  pkill -x Mail Things3 
+  osascript -e 'quit app "Mail"'
+  osascript -e 'quit app "Things3"'
 
   # Coping some icons inside some of the apps. I think this should be first
 
