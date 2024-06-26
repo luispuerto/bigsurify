@@ -21,6 +21,7 @@ function bigsurify () {
   sudo fileicon set /Applications/BitdefenderVirusScanner.app/ ~/Documents/Library/Big\ Sur\ Icons/Bitdefender\ Antivirus\ for\ Mac.icns
   sudo fileicon set /Applications/BookMacster.app ~/Documents/Library/Big\ Sur\ Icons/BookMacster.icns
   sudo fileicon set /Applications/Brother\ iPrint\&Scan.app ~/Documents/Library/Big\ Sur\ Icons/Brother\ iPrint\ Scan.icns
+  sudo fileicon set /Applications/calibre.app ~/Documents/Library/Big\ Sur\ Icons/Calibre.icns
   sudo fileicon set /Applications/Cryptomator.app ~/Documents/Library/Big\ Sur\ Icons/Cryptomator.icns
   sudo fileicon set /Applications/Cyberduck.app ~/Documents/Library/Big\ Sur\ Icons/Cyberduck.icns
   sudo fileicon set /Applications/Epson\ Software ~/Documents/Library/Big\ Sur\ Icons/Printer\ settings.icns
@@ -45,16 +46,17 @@ function bigsurify () {
   sudo fileicon set /Applications/Paparazzi!.app ~/Documents/Library/Big\ Sur\ Icons/Paparazzi.icns
   sudo fileicon set /Applications/Plex.app ~/Documents/Library/Big\ Sur\ Icons/Plex.icns
   sudo fileicon set /Applications/QGIS.app ~/Documents/Library/Big\ Sur\ Icons/QGIS\ Alt\ 2.icns
+  sudo fileicon set /Applications/quarto ~/Documents/Library/Big\ Sur\ Icons/quarto.icns
   sudo fileicon set /Applications/R.app ~/Documents/Library/Big\ Sur\ Icons/R.icns
   sudo fileicon set /Applications/RStudio.app ~/Documents/Library/Big\ Sur\ Icons/RStudio\ Alt.icns
   sudo fileicon set /Applications/Skype.app ~/Documents/Library/Big\ Sur\ Icons/Skype.icns
   sudo fileicon set /Applications/Sublime\ Merge.app ~/Documents/Library/Big\ Sur\ Icons/Sublime_Merge.icns
-  sudo fileicon set /Applications/TeX ~/Documents/Library/Big\ Sur\ Icons/TexShop.icns
-  sudo fileicon set /Applications/TeX/LaTeXiT.app ~/Documents/Library/Big\ Sur\ Icons/LaTeXiT.icns
-  sudo fileicon set /Applications/TeX/TeXShop.app ~/Documents/Library/Big\ Sur\ Icons/TexShopApp.icns
-  sudo fileicon set /Applications/TeX/TeX\ Live\ Utility.app ~/Documents/Library/Big\ Sur\ Icons/TeX\ Live\ Utility.icns
-  sudo fileicon set /Applications/TeX/hintview.app ~/Documents/Library/Big\ Sur\ Icons/Hintview.icns
   sudo fileicon set /Applications/TeamViewer.app ~/Documents/Library/Big\ Sur\ Icons/Teamviewer.icns
+  sudo fileicon set /Applications/TeX ~/Documents/Library/Big\ Sur\ Icons/TexShop.icns
+  sudo fileicon set /Applications/TeX/hintview.app ~/Documents/Library/Big\ Sur\ Icons/Hintview.icns
+  sudo fileicon set /Applications/TeX/LaTeXiT.app ~/Documents/Library/Big\ Sur\ Icons/LaTeXiT.icns
+  sudo fileicon set /Applications/TeX/TeX\ Live\ Utility.app ~/Documents/Library/Big\ Sur\ Icons/TeX\ Live\ Utility.icns
+  sudo fileicon set /Applications/TeX/TeXShop.app ~/Documents/Library/Big\ Sur\ Icons/TexShopApp.icns
   sudo fileicon set /Applications/Textual\ 7.app ~/Documents/Library/Big\ Sur\ Icons/Textual.icns
   sudo fileicon set /Applications/Trash\ It!.app ~/Documents/Library/Big\ Sur\ Icons/TrashIt.icns
   sudo fileicon set /Applications/Tunnelblick.app ~/Documents/Library/Big\ Sur\ Icons/Tunnelblick.icns
@@ -63,7 +65,6 @@ function bigsurify () {
   sudo fileicon set /Applications/VeraCrypt.app ~/Documents/Library/Big\ Sur\ Icons/VeraCrypt.icns
   sudo fileicon set /Applications/Wire.app ~/Documents/Library/Big\ Sur\ Icons/Wire.icns
   sudo fileicon set /Applications/WireGuard.app ~/Documents/Library/Big\ Sur\ Icons/WireGuard.icns
-  sudo fileicon set /Applications/calibre.app ~/Documents/Library/Big\ Sur\ Icons/Calibre.icns
   sudo iconsur set -l -s 1 /Applications/MarkDownload\ -\ Markdown\ Web\ Clipper.app
   sudo iconsur set -l -s 1.01 /Applications/Antivirus\ One.app
   sudo iconsur set -l -s 1.01 /Applications/Starry\ Night\ Pro\ Plus\ 8.app
