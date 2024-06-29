@@ -25,6 +25,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Cyberduck.app ~/Documents/Library/Big\ Sur\ Icons/Cyberduck.icns
   sudo fileicon set /Applications/Epson\ Software ~/Documents/Library/Big\ Sur\ Icons/Printer\ settings.icns
   sudo fileicon set /Applications/Firefox.app ~/Documents/Library/Big\ Sur\ Icons/Firefox.icns
+  sudo fileicon set /Applications/Garmin\ Express.app ~/Documents/Library/Big\ Sur\ Icons/Garmin\ Express.icns
   sudo fileicon set /Applications/Hidden\ Bar.app/ ~/Documents/Library/Big\ Sur\ Icons/Hidden\ Bar.icns
   sudo fileicon set /Applications/I2P.app ~/Documents/Library/Big\ Sur\ Icons/I2P.icns
   sudo fileicon set /Applications/ImageOptim.app ~/Documents/Library/Big\ Sur\ Icons/ImageOptim.icns
@@ -67,7 +68,9 @@ function bigsurify () {
   sudo iconsur set -l -s 1 /Applications/MarkDownload\ -\ Markdown\ Web\ Clipper.app
   sudo iconsur set -l -s 1.01 /Applications/Antivirus\ One.app
   sudo iconsur set -l -s 1.01 /Applications/Starry\ Night\ Pro\ Plus\ 8.app
+  sudo iconsur set -l -s 0.9 /Applications/Garmin\ BaseCamp.app
   sudo iconsur set -l -s 1.05 /Applications/MovPilot\ Disney+\ Video\ Downloader.app
+
 
   # Change internal icons of some apps related to Python
   ## QGIS
