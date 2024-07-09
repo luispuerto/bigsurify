@@ -65,13 +65,14 @@ function bigsurify () {
   sudo fileicon set /Applications/VeraCrypt.app ~/Documents/Library/Big\ Sur\ Icons/VeraCrypt.icns
   sudo fileicon set /Applications/Wire.app ~/Documents/Library/Big\ Sur\ Icons/Wire.icns
   sudo fileicon set /Applications/WireGuard.app ~/Documents/Library/Big\ Sur\ Icons/WireGuard.icns
+  sudo iconsur set -l -s 0.9 /Applications/Endpoint\ Security\ VPN.app
+  sudo iconsur set -l -s 0.9 /Applications/Garmin\ BaseCamp.app
   sudo iconsur set -l -s 1 /Applications/MarkDownload\ -\ Markdown\ Web\ Clipper.app
   sudo iconsur set -l -s 1.01 /Applications/Antivirus\ One.app
   sudo iconsur set -l -s 1.01 /Applications/Starry\ Night\ Pro\ Plus\ 8.app
-  sudo iconsur set -l -s 0.9 /Applications/Garmin\ BaseCamp.app
+  sudo iconsur set -l -s 1.05 /Applications/Garmin\ MapInstall.app -i "~/Documents/Library/Big Sur Icons/Garmin Map Install.png"
+  sudo iconsur set -l -s 1.05 /Applications/Garmin\ MapManager.app -i "~/Documents/Library/Big Sur Icons/Garmin Map Manager.png"
   sudo iconsur set -l -s 1.05 /Applications/MovPilot\ Disney+\ Video\ Downloader.app
-
-
   # Change internal icons of some apps related to Python
   ## QGIS
   sudo cp ~/Documents/Library/Big\ Sur\ Icons/qgis-icon-macos.png \
