@@ -73,6 +73,10 @@ function bigsurify () {
   sudo iconsur set -l -s 1.05 /Applications/Garmin\ MapInstall.app -i "~/Documents/Library/Big Sur Icons/Garmin Map Install.png"
   sudo iconsur set -l -s 1.05 /Applications/Garmin\ MapManager.app -i "~/Documents/Library/Big Sur Icons/Garmin Map Manager.png"
   sudo iconsur set -l -s 1.05 /Applications/MovPilot\ Disney+\ Video\ Downloader.app
+  sudo fileicon set /Applications/Google\ Docs.app ~/Documents/Library/Big\ Sur\ Icons/Google\ Docs.icns
+  sudo fileicon set /Applications/Google\ Sheets.app ~/Documents/Library/Big\ Sur Icons/Google\ Sheets.icns
+  sudo fileicon set /Applications/Google\ Slides.app ~/Documents/Library/Big\ Sur\ Icons/Google\ Google\ Slides.icns
+  sudo fileicon set /Applications/Mountain\ Duck.app ~/Documents/Library/Big\ Sur\ Icons/Mountain\ Duck.icns
   # Change internal icons of some apps related to Python
   ## QGIS
   sudo cp ~/Documents/Library/Big\ Sur\ Icons/qgis-icon-macos.png \
