@@ -26,6 +26,9 @@ function bigsurify () {
   sudo fileicon set /Applications/Epson\ Software ~/Documents/Library/Big\ Sur\ Icons/Printer\ settings.icns
   sudo fileicon set /Applications/Firefox.app ~/Documents/Library/Big\ Sur\ Icons/Firefox.icns
   sudo fileicon set /Applications/Garmin\ Express.app ~/Documents/Library/Big\ Sur\ Icons/Garmin\ Express.icns
+  sudo fileicon set /Applications/Google\ Docs.app ~/Documents/Library/Big\ Sur\ Icons/Google\ Docs.icns
+  sudo fileicon set /Applications/Google\ Sheets.app ~/Documents/Library/Big\ Sur\ Icons/Google\ Sheets.icns
+  sudo fileicon set /Applications/Google\ Slides.app ~/Documents/Library/Big\ Sur\ Icons/Google\ Slides.icns
   sudo fileicon set /Applications/Hidden\ Bar.app/ ~/Documents/Library/Big\ Sur\ Icons/Hidden\ Bar.icns
   sudo fileicon set /Applications/I2P.app ~/Documents/Library/Big\ Sur\ Icons/I2P.icns
   sudo fileicon set /Applications/ImageOptim.app ~/Documents/Library/Big\ Sur\ Icons/ImageOptim.icns
@@ -38,13 +41,16 @@ function bigsurify () {
   sudo fileicon set /Applications/Microsoft\ PowerPoint.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Powerpoint.icns
   sudo fileicon set /Applications/Microsoft\ Teams.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Teams.icns
   sudo fileicon set /Applications/Microsoft\ Word.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Word.icns
+  sudo fileicon set /Applications/Mountain\ Duck.app ~/Documents/Library/Big\ Sur\ Icons/Mountain\ Duck.icns
   sudo fileicon set /Applications/Obsidian.app ~/Documents/Library/Big\ Sur\ Icons/Obsidian.icns
+  sudo fileicon set /Applications/Okta\ Verify.app/ ~/Documents/Library/Big\ Sur\ Icons/Okta\ Verify.icns
   sudo fileicon set /Applications/OnionShare.app ~/Documents/Library/Big\ Sur\ Icons/OnionShare.icns
   sudo fileicon set /Applications/OpenRA\ -\ Dune\ 2000.app ~/Documents/Library/Big\ Sur\ Icons/OpenRA\ Dune.icns
   sudo fileicon set /Applications/OpenRA\ -\ Red\ Alert.app ~/Documents/Library/Big\ Sur\ Icons/OpenRA\ Red\ Alert.icns
   sudo fileicon set /Applications/OpenRA\ -\ Tiberian\ Dawn.app ~/Documents/Library/Big\ Sur\ Icons/OpenRA\ Tiberian\ Sun.icns
   sudo fileicon set /Applications/Paparazzi!.app ~/Documents/Library/Big\ Sur\ Icons/Paparazzi.icns
   sudo fileicon set /Applications/Plex.app ~/Documents/Library/Big\ Sur\ Icons/Plex.icns
+  sudo fileicon set /Applications/PowerShell.app/ ~/Documents/Library/Big\ Sur\ Icons/PowerShell.icns
   sudo fileicon set /Applications/QGIS.app ~/Documents/Library/Big\ Sur\ Icons/QGIS\ Alt\ 2.icns
   sudo fileicon set /Applications/quarto ~/Documents/Library/Big\ Sur\ Icons/quarto.icns
   sudo fileicon set /Applications/R.app ~/Documents/Library/Big\ Sur\ Icons/R.icns
@@ -73,10 +79,7 @@ function bigsurify () {
   sudo iconsur set -l -s 1.05 /Applications/Garmin\ MapInstall.app -i "~/Documents/Library/Big Sur Icons/Garmin Map Install.png"
   sudo iconsur set -l -s 1.05 /Applications/Garmin\ MapManager.app -i "~/Documents/Library/Big Sur Icons/Garmin Map Manager.png"
   sudo iconsur set -l -s 1.05 /Applications/MovPilot\ Disney+\ Video\ Downloader.app
-  sudo fileicon set /Applications/Google\ Docs.app ~/Documents/Library/Big\ Sur\ Icons/Google\ Docs.icns
-  sudo fileicon set /Applications/Google\ Sheets.app ~/Documents/Library/Big\ Sur Icons/Google\ Sheets.icns
-  sudo fileicon set /Applications/Google\ Slides.app ~/Documents/Library/Big\ Sur\ Icons/Google\ Google\ Slides.icns
-  sudo fileicon set /Applications/Mountain\ Duck.app ~/Documents/Library/Big\ Sur\ Icons/Mountain\ Duck.icns
+
   # Change internal icons of some apps related to Python
   ## QGIS
   sudo cp ~/Documents/Library/Big\ Sur\ Icons/qgis-icon-macos.png \
