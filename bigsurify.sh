@@ -55,6 +55,7 @@ function bigsurify () {
   sudo fileicon set /Applications/quarto ~/Documents/Library/Big\ Sur\ Icons/quarto.icns
   sudo fileicon set /Applications/R.app ~/Documents/Library/Big\ Sur\ Icons/R.icns
   sudo fileicon set /Applications/RStudio.app ~/Documents/Library/Big\ Sur\ Icons/RStudio\ Alt.icns
+  sudo fileicon set /Applications/Sky.app/ ~/Documents/Library/Big Sur Icons/Bluesky.icns
   sudo fileicon set /Applications/Skype.app ~/Documents/Library/Big\ Sur\ Icons/Skype.icns
   sudo fileicon set /Applications/Sublime\ Merge.app ~/Documents/Library/Big\ Sur\ Icons/Sublime_Merge.icns
   sudo fileicon set /Applications/TeamViewer.app ~/Documents/Library/Big\ Sur\ Icons/Teamviewer.icns
