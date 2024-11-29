@@ -80,6 +80,7 @@ function bigsurify () {
   sudo iconsur set -l -s 1.05 /Applications/Garmin\ MapInstall.app -i "~/Documents/Library/Big Sur Icons/Garmin Map Install.png"
   sudo iconsur set -l -s 1.05 /Applications/Garmin\ MapManager.app -i "~/Documents/Library/Big Sur Icons/Garmin Map Manager.png"
   sudo iconsur set -l -s 1.05 /Applications/MovPilot\ Disney+\ Video\ Downloader.app
+  sudo iconsur set -l -s .9 /Applications/Utilities/ODBC\ Manager.app/ 
 
   # Change internal icons of some apps related to Python
   ## QGIS
