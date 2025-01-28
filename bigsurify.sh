@@ -24,6 +24,7 @@ function bigsurify () {
   sudo fileicon set /Applications/calibre.app ~/Documents/Library/Big\ Sur\ Icons/Calibre.icns
   sudo fileicon set /Applications/Cyberduck.app ~/Documents/Library/Big\ Sur\ Icons/Cyberduck.icns
   sudo fileicon set /Applications/Epson\ Software ~/Documents/Library/Big\ Sur\ Icons/Printer\ settings.icns
+  sudo fileicon set /Applications/EtreCheckPro.app/ ~/Documents/Library/Big\ Sur\ Icons/EtreCheck.icns
   sudo fileicon set /Applications/Firefox.app ~/Documents/Library/Big\ Sur\ Icons/Firefox.icns
   sudo fileicon set /Applications/Garmin\ Express.app ~/Documents/Library/Big\ Sur\ Icons/Garmin\ Express.icns
   sudo fileicon set /Applications/Google\ Docs.app ~/Documents/Library/Big\ Sur\ Icons/Google\ Docs.icns
@@ -73,7 +74,6 @@ function bigsurify () {
   sudo fileicon set /Applications/VeraCrypt.app ~/Documents/Library/Big\ Sur\ Icons/VeraCrypt.icns
   sudo fileicon set /Applications/Wire.app ~/Documents/Library/Big\ Sur\ Icons/Wire.icns
   sudo fileicon set /Applications/WireGuard.app ~/Documents/Library/Big\ Sur\ Icons/WireGuard.icns
-  sudo fileicon set /Applications/EtreCheckPro.app/ ~/Documents/Library/Big\ Sur\ Icons/EtreCheck.icns
   sudo iconsur set -l -s 0.9 /Applications/Endpoint\ Security\ VPN.app
   sudo iconsur set -l -s 0.9 /Applications/Garmin\ BaseCamp.app
   sudo iconsur set -l -s 1 /Applications/MarkDownload\ -\ Markdown\ Web\ Clipper.app
