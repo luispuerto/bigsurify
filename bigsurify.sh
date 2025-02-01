@@ -37,7 +37,7 @@ function bigsurify () {
   sudo fileicon set /Applications/JupyterLab.app /Users/luispuerto/Documents/Library/Big\ Sur\ Icons/JupyterLab.icns
   sudo fileicon set /Applications/Keybase.app ~/Documents/Library/Big\ Sur\ Icons/Keybase.icns
   sudo fileicon set /Applications/KeyboardCleanTool.app ~/Documents/Library/Big\ Sur\ Icons/KeyboardCleanTool.icns
-  sudo fileicon set /Applications/LogiTune.app ~/Documents/Library/Big\ Sur\ Icons/LogiTune.icns
+  sudo fileicon set /Applications/Logi\ Tune.app ~/Documents/Library/Big\ Sur\ Icons/LogiTune.icns
   sudo fileicon set /Applications/MEGASync.app ~/Documents/Library/Big\ Sur\ Icons/MEGASync.icns
   sudo fileicon set /Applications/Microsoft\ Excel.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Excel.icns
   sudo fileicon set /Applications/Microsoft\ PowerPoint.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Powerpoint.icns
