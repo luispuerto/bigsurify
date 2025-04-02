@@ -13,7 +13,6 @@ function bigsurify () {
   
   # Icon actions
   
-  # sudo fileicon set /Applications/Zotero.app ~/Documents/Library/Big\ Sur\ Icons/Zotero.icns
   sudo fileicon set /Applications/A\ Better\ Finder\ Attributes\ 7.app ~/Documents/Library/Big\ Sur\ Icons/A\ Better\ Finder\ Attributes.icns
   sudo fileicon set /Applications/Angry\ IP\ Scanner.app ~/Documents/Library/Big\ Sur\ Icons/Angry\ IP\ scaner.icns
   sudo fileicon set /Applications/AutoFirma.app ~/Documents/Library/Big\ Sur\ Icons/Autofirma.icns 
@@ -40,6 +39,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Logi\ Tune.app ~/Documents/Library/Big\ Sur\ Icons/LogiTune.icns
   sudo fileicon set /Applications/MEGASync.app ~/Documents/Library/Big\ Sur\ Icons/MEGASync.icns
   sudo fileicon set /Applications/Microsoft\ Excel.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Excel.icns
+  sudo fileicon set /Applications/Microsoft\ OneNote.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ OneNote.icns
   sudo fileicon set /Applications/Microsoft\ PowerPoint.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Powerpoint.icns
   sudo fileicon set /Applications/Microsoft\ Teams.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Teams.icns
   sudo fileicon set /Applications/Microsoft\ Word.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Word.icns
@@ -74,6 +74,7 @@ function bigsurify () {
   sudo fileicon set /Applications/VeraCrypt.app ~/Documents/Library/Big\ Sur\ Icons/VeraCrypt.icns
   sudo fileicon set /Applications/Wire.app ~/Documents/Library/Big\ Sur\ Icons/Wire.icns
   sudo fileicon set /Applications/WireGuard.app ~/Documents/Library/Big\ Sur\ Icons/WireGuard.icns
+  sudo iconsur set -l -s .9 /Applications/Utilities/ODBC\ Manager.app/ 
   sudo iconsur set -l -s 0.9 /Applications/Endpoint\ Security\ VPN.app
   sudo iconsur set -l -s 0.9 /Applications/Garmin\ BaseCamp.app
   sudo iconsur set -l -s 1 /Applications/MarkDownload\ -\ Markdown\ Web\ Clipper.app
@@ -82,7 +83,6 @@ function bigsurify () {
   sudo iconsur set -l -s 1.05 /Applications/Garmin\ MapInstall.app -i "~/Documents/Library/Big Sur Icons/Garmin Map Install.png"
   sudo iconsur set -l -s 1.05 /Applications/Garmin\ MapManager.app -i "~/Documents/Library/Big Sur Icons/Garmin Map Manager.png"
   sudo iconsur set -l -s 1.05 /Applications/MovPilot\ Disney+\ Video\ Downloader.app
-  sudo iconsur set -l -s .9 /Applications/Utilities/ODBC\ Manager.app/ 
 
   # Change internal icons of some apps related to Python
   ## QGIS
