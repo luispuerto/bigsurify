@@ -40,6 +40,7 @@ function bigsurify () {
   sudo fileicon set /Applications/MEGASync.app ~/Documents/Library/Big\ Sur\ Icons/MEGASync.icns
   sudo fileicon set /Applications/Microsoft\ Excel.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Excel.icns
   sudo fileicon set /Applications/Microsoft\ OneNote.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ OneNote.icns
+  sudo fileicon set /Applications/Microsoft\ Outlook.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Outlook.icns
   sudo fileicon set /Applications/Microsoft\ PowerPoint.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Powerpoint.icns
   sudo fileicon set /Applications/Microsoft\ Teams.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Teams.icns
   sudo fileicon set /Applications/Microsoft\ Word.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Word.icns
