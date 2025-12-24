@@ -38,12 +38,12 @@ function bigsurify () {
   sudo fileicon set /Applications/KeyboardCleanTool.app ~/Documents/Library/Big\ Sur\ Icons/KeyboardCleanTool.icns
   sudo fileicon set /Applications/Logi\ Tune.app ~/Documents/Library/Big\ Sur\ Icons/LogiTune.icns
   sudo fileicon set /Applications/MEGASync.app ~/Documents/Library/Big\ Sur\ Icons/MEGASync.icns
-  sudo fileicon set /Applications/Microsoft\ Excel.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Excel.icns
-  sudo fileicon set /Applications/Microsoft\ OneNote.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ OneNote.icns
-  sudo fileicon set /Applications/Microsoft\ Outlook.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Outlook.icns
-  sudo fileicon set /Applications/Microsoft\ PowerPoint.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Powerpoint.icns
-  sudo fileicon set /Applications/Microsoft\ Teams.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Teams.icns
-  sudo fileicon set /Applications/Microsoft\ Word.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Word.icns
+  # sudo fileicon set /Applications/Microsoft\ Excel.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Excel.icns
+  # sudo fileicon set /Applications/Microsoft\ OneNote.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ OneNote.icns
+  # sudo fileicon set /Applications/Microsoft\ Outlook.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Outlook.icns
+  # sudo fileicon set /Applications/Microsoft\ PowerPoint.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Powerpoint.icns
+  # sudo fileicon set /Applications/Microsoft\ Teams.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Teams.icns
+  # sudo fileicon set /Applications/Microsoft\ Word.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ Word.icns
   sudo fileicon set /Applications/Mountain\ Duck.app ~/Documents/Library/Big\ Sur\ Icons/Mountain\ Duck.icns
   sudo fileicon set /Applications/Obsidian.app ~/Documents/Library/Big\ Sur\ Icons/Obsidian.icns
   sudo fileicon set /Applications/Okta\ Verify.app/ ~/Documents/Library/Big\ Sur\ Icons/Okta\ Verify.icns
@@ -51,7 +51,7 @@ function bigsurify () {
   sudo fileicon set /Applications/OpenRA\ -\ Dune\ 2000.app ~/Documents/Library/Big\ Sur\ Icons/OpenRA\ Dune.icns
   sudo fileicon set /Applications/OpenRA\ -\ Red\ Alert.app ~/Documents/Library/Big\ Sur\ Icons/OpenRA\ Red\ Alert.icns
   sudo fileicon set /Applications/OpenRA\ -\ Tiberian\ Dawn.app ~/Documents/Library/Big\ Sur\ Icons/OpenRA\ Tiberian\ Sun.icns
-  sudo fileicon set /Applications/Paparazzi!.app ~/Documents/Library/Big\ Sur\ Icons/Paparazzi.icns
+  sudo fileicon set /Applications/OneDrive.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ OneDrive.icns
   sudo fileicon set /Applications/Plex.app ~/Documents/Library/Big\ Sur\ Icons/Plex.icns
   sudo fileicon set /Applications/PowerShell.app/ ~/Documents/Library/Big\ Sur\ Icons/PowerShell.icns
   sudo fileicon set /Applications/QGIS.app ~/Documents/Library/Big\ Sur\ Icons/QGIS\ Alt\ 2.icns
