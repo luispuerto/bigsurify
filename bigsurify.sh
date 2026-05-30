@@ -46,7 +46,6 @@ function bigsurify () {
   sudo fileicon set /Applications/OneDrive.app ~/Documents/Library/Big\ Sur\ Icons/Microsoft\ OneDrive.icns
   sudo fileicon set /Applications/Plex.app ~/Documents/Library/Big\ Sur\ Icons/Plex.icns
   sudo fileicon set /Applications/PowerShell.app/ ~/Documents/Library/Big\ Sur\ Icons/PowerShell.icns
-  sudo fileicon set /Applications/QGIS.app ~/Documents/Library/Big\ Sur\ Icons/QGIS\ Alt\ 2.icns
   sudo fileicon set /Applications/quarto ~/Documents/Library/Big\ Sur\ Icons/quarto.icns
   sudo fileicon set /Applications/R.app ~/Documents/Library/Big\ Sur\ Icons/R.icns
   sudo fileicon set /Applications/RStudio.app ~/Documents/Library/Big\ Sur\ Icons/RStudio\ Alt.icns
@@ -66,21 +65,6 @@ function bigsurify () {
   sudo fileicon set /Applications/Utilities/XQuartz.app ~/Documents/Library/Big\ Sur\ Icons/XQuartz_Alt.icns
   sudo fileicon set /Applications/VeraCrypt.app ~/Documents/Library/Big\ Sur\ Icons/VeraCrypt.icns
   sudo fileicon set /Applications/Wire.app ~/Documents/Library/Big\ Sur\ Icons/Wire.icns
-
-  # Change internal icons of some apps related to Python
-  ## QGIS
-  sudo cp ~/Documents/Library/Big\ Sur\ Icons/qgis-icon-macos.png \
-    /Applications/QGIS.app/Contents/Resources/images/icons/qgis-icon-macos.png 
-  
-  ## Calibre
-  echo /Applications/calibre.app/Contents/Resources/resources/images/apple-touch-icon.png \
-    /Applications/calibre.app/Contents/Resources/resources/images/library.png \
-    /Applications/calibre.app/Contents/Resources/resources/images/lt.png | \
-    xargs -n 1 cp ~/Documents/Library/Big\ Sur\ Icons/calibre.png
-  # echo /Applications/calibre.app/Contents/Resources/resources/images/viewer.png | \
-  #   # /Applications/calibre.app/Contents/Resources/resources/images/library.png \
-  #   # /Applications/calibre.app/Contents/Resources/resources/images/lt.png | \
-  #   xargs -n 1 cp ~/Documents/Library/Big\ Sur\ Icons/ebook-viewer.png
 
 
   # Killing Dock and Finder to the new icons load properly
