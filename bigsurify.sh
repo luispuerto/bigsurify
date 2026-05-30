@@ -65,6 +65,7 @@ function bigsurify () {
   sudo fileicon set /Applications/Utilities/XQuartz.app ~/Documents/Library/Big\ Sur\ Icons/XQuartz_Alt.icns
   sudo fileicon set /Applications/VeraCrypt.app ~/Documents/Library/Big\ Sur\ Icons/VeraCrypt.icns
   sudo fileicon set /Applications/Wire.app ~/Documents/Library/Big\ Sur\ Icons/Wire.icns
+  sudo fileicon set /Applications/WireGuard.app ~/Documents/Librºary/Big\ Sur\ Icons/WireGuard.icns
 
 
   # Killing Dock and Finder to the new icons load properly
